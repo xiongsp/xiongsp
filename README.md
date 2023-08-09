@@ -5,7 +5,7 @@
 - 🌱 Learning Go!!!
 - 👯 网络安全专业的渣渣
 - 🤔 希望得到PWN大师的指点迷津！
-- 📫 blog: <a href="https://xiongsp.ml"> https://xiongsp.ml </a>
+- 📫 blog: <a href="https://1145.link"> https://1145.link </a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiongsp/xiongsp/output/github-contribution-grid-snake-dark.svg">
