@@ -3,10 +3,10 @@
 - 🌱 Learning Go!!!
 - 👯 网络安全专业的渣渣
 - 🤔 希望得到PWN大师的指点迷津！
-- 📫 blog: https://ixiong.me or https://xiongsp.github.io
-- 📧 Email: admin@ixiong.me
+- 📫 blog: https://ixiong.top or https://xiongsp.github.io
+- 📧 Email: admin@ixiong.top
 - 🗝️ PGP Avaliable!
-  - 2024-10-30 Admin \<admin@ixiong.me\> | xiongsp \<37035570+xiongsp@users.noreply.github.com\>
+  - 2024-10-30 Admin \<admin@ixiong.top\> | xiongsp \<37035570+xiongsp@users.noreply.github.com\>
   - PGP Fingerprint: F32B 4410 0A11 F66E 9779 DF5A 20BC <ins>**8888 8888 8888**</ins>
   - Public Key is [HERE](https://raw.githubusercontent.com/xiongsp/xiongsp/refs/heads/main/PUBLIC_KEY.asc).
 <picture>
